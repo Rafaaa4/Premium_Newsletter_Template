@@ -52,7 +52,7 @@ premium-email-template/
 
 ## Mobile Preview
 
-![Mobile](screencapture-127-0-0-1-5500-Premium-Newsletter-Template-html-2026-07-06-11_06_03.png)
+![Mobile](screencapture-127-0-0-1-5500-Premium-Newsletter-Template-html-2026-07-06-11_14_36.png)
 
 ---
 
