@@ -46,13 +46,13 @@ premium-email-template/
 
 ## Desktop Preview
 
-![Desktop](screenshots/desktop-preview.png)
+![Desktop](screencapture-127-0-0-1-5500-Premium-Newsletter-Template-html-2026-07-06-11_06_03.png)
 
 ---
 
 ## Mobile Preview
 
-![Mobile](screenshots/mobile-preview.png)
+![Mobile](screencapture-127-0-0-1-5500-Premium-Newsletter-Template-html-2026-07-06-11_06_03.png)
 
 ---
 
